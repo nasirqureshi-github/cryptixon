@@ -14,7 +14,7 @@ const Profile = () => {
     alt="Cryptxion"
     className="w-full h-60 object-cover rounded-2xl" draggable={false}/>
 
-   <div className="flex gap-6 items-center">
+   <div className="flex gap-6 items-center flex-wrap">
   <Image  src="/assets/images/profile.png" width={50} height={50}
     alt="Cryptxion"
     className="w-30 h-30 rounded-full -mt-10" draggable={false}/>
